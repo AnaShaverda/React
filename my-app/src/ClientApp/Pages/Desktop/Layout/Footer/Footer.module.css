@@ -1,0 +1,35 @@
+.footer{
+   width:70%;
+   background:rgba(204, 212, 255, 0.05);
+   padding: 60px;
+   border-radius: 24px !important;
+}
+
+.footerStyles{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footerHeading{
+    display: flex;
+    justify-content: space-around;
+}
+.footerHeading span{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: right;
+    color: white;
+}
+
+.footerUl{
+    list-style-type: none;
+}
+.footerFlex{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    text-align: left;
+}

@@ -1,0 +1,24 @@
+.headerUl{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    color: white;
+    text-transform: capitalize;
+   align-items: center;
+   font-size: 16px;
+   line-height: 20px;
+    
+}
+.headerUl li button{
+    text-transform: capitalize !important;
+}
+
+
+.navigation{
+    position: fixed;
+    width: 100%;
+    margin-top: 20px;
+    padding:20px;
+    overflow: hidden;
+    box-sizing: border-box;
+}

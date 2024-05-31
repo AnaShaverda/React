@@ -1,0 +1,27 @@
+
+.buttonDefault{
+    background: none;
+    color: inherit;
+    border: none;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;
+    border: 2px solid rgba(204, 212, 255, 0.11);
+    border-radius:15px;
+    padding:10px 20px 10px 20px;   
+    box-sizing: border-box;
+    font-weight: 600;
+}
+.buttonGreen{
+    background:   rgba(0, 255, 64, 1);
+    color: black;
+    border: none;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;
+    border: 2px solid rgba(204, 212, 255, 0.11);
+    border-radius:15px;
+    padding:10px 20px 10px 20px;   
+    box-sizing: border-box;
+    font-weight: 600;
+}
